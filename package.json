@@ -1,0 +1,14 @@
+{
+  "name": "jestapp",
+  "version": "1.0.0",
+  "description": "pruebas unitarias con jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Brahianf Hurtado <brahianf@unicauca.edu.co>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.0.9"
+  }
+}
