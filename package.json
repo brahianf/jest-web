@@ -4,7 +4,9 @@
   "description": "pruebas unitarias con jest",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
   },
   "author": "Brahianf Hurtado <brahianf@unicauca.edu.co>",
   "license": "MIT",
